@@ -6,3 +6,7 @@
 VisDrone https://github.com/VisDrone/VisDrone-Dataset
 
 UAVDT https://github.com/dataset-ninja/uavdt
+
+## Connection
+
+If you have any questions, please contact me directly.

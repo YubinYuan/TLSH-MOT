@@ -25,6 +25,8 @@ GTR: https://github.com/xingyizhou/GTR
 TR-MOT: https://arxiv.org/abs/2203.16621
 STN-Track: https://github.com/orangecryu/STN-Track
 
+MGTrack: https://ieeexplore.ieee.org/abstract/document/10530912
+FOCos: https://ieeexplore.ieee.org/abstract/document/10586876
 ## Acknowledge
 A large part of the codes, ideas and results are borrowed from ByteTrack, StrongSORT, FastReID, YOLOX and YOLOv7. Thanks for their excellent work!
 

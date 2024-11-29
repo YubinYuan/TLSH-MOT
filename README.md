@@ -9,7 +9,7 @@ UAVDT https://github.com/dataset-ninja/uavdt
 
 
 ## 对比方法
-Deep_SORT: https://github.com/nwojke/deep_sort
+[Deep_SORT](https://github.com/nwojke/deep_sort)
 ByteTrack：https://github.com/ifzhang/ByteTrack
 BoT-SORT: https://github.com/NirAharon/BoT-SORT?tab=readme-ov-file
 UAVMOT: https://github.com/LiuShuaiyr/UAVMOT?tab=readme-ov-file
